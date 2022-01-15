@@ -15,6 +15,7 @@ with open(file_to_load) as election_data:
     #Print the header row
     headers = next(file_reader)
     print(headers)
+    
    
 #1. The total number of votes cast..
 #2. A complete list of candidates who received votes
