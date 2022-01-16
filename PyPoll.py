@@ -63,7 +63,7 @@ for candidate_name in candidate_votes:
 
 
 
-   
+
 #1. The total number of votes cast..
 #2. A complete list of candidates who received votes
 #3. The percentage of votes each candidate won
