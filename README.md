@@ -14,9 +14,15 @@ election audit of a recent local congressional election
 Data Source: election results.csv
 Software: Python 3.9.7, Visual Studio Code
 
-## Summary
+## Results
 The analysis of the election show that:\
-There were 369,711 total votes cast in the election.\
+There were 369,711 total votes cast in the election.
+
+Votes per County:\
+Jefferson:  10.5% 38,855\
+Denver:  82.8% 306,055\
+Arapahoe:  6.7% 24,801
+
 The candidates were:\
 Charles Casper Stockham\
 Diana DeGette\
