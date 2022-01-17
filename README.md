@@ -44,6 +44,3 @@ WIth this code you should be able to use this with other elections with their CS
 <img width="508" alt="Screen Shot 2022-01-16 at 5 49 30 PM" src="https://user-images.githubusercontent.com/94948877/149688637-30ff322b-e88b-48cf-8a5b-e4a2ead88e49.png">
 
 <img width="358" alt="Screen Shot 2022-01-16 at 5 49 21 PM" src="https://user-images.githubusercontent.com/94948877/149688654-064fb740-1445-43c5-abf1-63ba4919bad9.png">
-
-
-Jefferson:  10.5% 38,855\
