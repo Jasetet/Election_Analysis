@@ -27,7 +27,7 @@ Charles Casper Stockham received 23% of the vote and 85,213 votes
 Diana DeGette received 73.8% of the vote and 272,892 votes
 Raymon Anthony Doane received 3.1% of the vote and 11,606 votes
 
-![Screen Shot 2022-01-16 at 4 47 52 PM](https://user-images.githubusercontent.com/94948877/149685056-6fcb15c0-2905-4541-ba91-3be16f6b84a8.png)
+![Screen Shot 2022-01-16 at 4 49 22 PM](https://user-images.githubusercontent.com/94948877/149685121-7f6c1cba-cd79-4185-b3da-3f1d13f62438.png)
 
 The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 votes.
