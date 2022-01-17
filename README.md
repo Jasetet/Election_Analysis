@@ -16,7 +16,7 @@ Software: Python 3.9.7, Visual Studio Code
 
 ## Summary
 The analysis of the election show that:
-There were 369,711 total votes cast in the election
+There were 369,711 total votes cast in the election.\
 The candidates were:\
 Charles Casper Stockham\
 Diana DeGette\
