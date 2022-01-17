@@ -39,8 +39,10 @@ The winner of the election was:\
 Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ## Challenge Summary
-WIth this code you should be able to use this with other elections with their CSV files. The only thing you should have to change is which file to load and which rows to use for candidate_name and county_name. As shown below.
+WIth this code you should be able to use this with other elections with their CSV files. The only two things you should have to change is which file to load and which rows to use for candidate_name and county_name. As shown below.
 
 <img width="508" alt="Screen Shot 2022-01-16 at 5 49 30 PM" src="https://user-images.githubusercontent.com/94948877/149688637-30ff322b-e88b-48cf-8a5b-e4a2ead88e49.png">
 
 <img width="358" alt="Screen Shot 2022-01-16 at 5 49 21 PM" src="https://user-images.githubusercontent.com/94948877/149688654-064fb740-1445-43c5-abf1-63ba4919bad9.png">
+
+With just changing those two elements of the code you would be able to use this code with any election with similar data. 
