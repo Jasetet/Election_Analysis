@@ -15,22 +15,22 @@ Data Source: election results.csv
 Software: Python 3.9.7, Visual Studio Code
 
 ## Summary
-The analysis of the election show that:
+The analysis of the election show that:\
 There were 369,711 total votes cast in the election.\
 The candidates were:\
 Charles Casper Stockham\
 Diana DeGette\
 Raymon Anthony Doane
 
-THe candidate results were:
-Charles Casper Stockham received 23% of the vote and 85,213 votes
-Diana DeGette received 73.8% of the vote and 272,892 votes
-Raymon Anthony Doane received 3.1% of the vote and 11,606 votes
+THe candidate results were:\
+Charles Casper Stockham received 23% of the vote and 85,213 votes\
+Diana DeGette received 73.8% of the vote and 272,892 votes\
+Raymon Anthony Doane received 3.1% of the vote and 11,606 votes\
 
 ![Screen Shot 2022-01-16 at 4 49 22 PM](https://user-images.githubusercontent.com/94948877/149685121-7f6c1cba-cd79-4185-b3da-3f1d13f62438.png)
 
-The winner of the election was:
-Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+The winner of the election was:\
+Diana DeGette, who received 73.8% of the vote and 272,892 votes.\
 
 ## Challenge Overview
 
